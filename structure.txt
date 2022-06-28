@@ -1,0 +1,64 @@
+.
+├── brand_nb.ipynb                       # 品牌NB分類器
+├── cat_nb.ipynb                         # 品類NB分類器
+├── structure.txt                        # 資料結構
+├── 品牌資料集
+│   ├── brand_test(question).csv         # 原始品牌資料集
+│   └── brand_train.csv                  # 原始品牌訓練集
+├── 品類資料集
+│   ├── cat_test_v2(question).csv        # 原始品類資料集
+│   └── cat_train_v2.csv                 # 原始品類訓練集
+├── 整理的品牌資料集
+│   ├── brand_sim.ipynb                  # 品牌同義詞與相關性處理
+│   ├── brand_test(question).csv         # 原始品牌資料集    
+│   ├── brand_train.csv			 # 原始品牌訓練集
+│   ├── brand_zhen.csv
+│   ├── clean_brand.ipynb                # 品牌資料清理
+│   ├── cleaned_brand_test.csv           # 已清洗品牌資料集
+│   ├── cleaned_brand_train.csv          # 已清洗品牌訓練集
+│   └── temp
+│       ├── check_brand.csv
+│       ├── checklist.csv
+│       ├── checklisting.csv
+│       ├── chrped.csv
+│       ├── chsame.csv
+│       ├── chsame.numbers
+│       ├── chtest.csv
+│       ├── cleaned_brand.csv
+│       ├── contain_num_brand.csv
+│       ├── enchreped.csv
+│       ├── enchreped.numbers
+│       ├── ensame.csv
+│       ├── entest.csv
+│       ├── finchtest.csv
+│       ├── finentest.csv
+│       ├── forfinaldf.csv
+│       ├── 中文檢查.numbers
+│       ├── 已檢查僅中文.csv
+│       ├── 已檢查僅中文.numbers
+│       ├── 已檢查僅英文.csv
+│       ├── 已檢查僅英文.numbers
+│       └── 純英文檢查.numbers
+├── 整理的品類資料集
+│   ├── cat_test_v2(question).csv
+│   ├── cat_train_v2.csv
+│   ├── clean_cat.ipynb
+│   ├── cleaned_test.csv
+│   ├── cleaned_train.csv
+│   ├── more_tag.csv
+│   ├── one_tag.csv
+│   └── temp
+│       ├── cleaned_cat.csv
+│       ├── contain_num_cat.csv
+│       ├── contain_num_cat_4600.numbers
+│       ├── more_tag.csv
+│       └── one_tag.csv
+├── 結果
+│   ├── brand_test(answer).csv
+│   ├── brand_test(answer)sig.csv
+│   ├── cat_test_v2(answer).csv
+│   ├── cat_test_v2(answer)sig.csv
+│   └── 單一品牌內容.csv
+└── 資料集格式說明.pdf
+
+7 directories, 54 files

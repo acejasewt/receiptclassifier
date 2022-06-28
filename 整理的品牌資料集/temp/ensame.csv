@@ -1,0 +1,1218 @@
+,brand_ch,brand_en,cleaned_brand,sim_ch,repeat,sim_en,repeaten
+0,妮傲絲翠,neo-tec,neo-tec妮傲絲翠,[],0,[],0
+1,飛利浦,philips,philips飛利浦,['飛利浦'],0,[],0
+2,專科,senka,senka專科,['專科'],0,[],0
+3,芳珂,fancl,fancl芳珂,[],0,"[('fancl', 100)]",0
+4,紅牛,red bull,red bull紅牛,[],0,[],0
+5,富維克,volvic,volvic富維克,[],0,[],0
+6,妮維雅,nivea,nivea妮維雅,[],0,[],0
+7,獅王,lion,lion獅王,['獅王'],0,[],0
+8,奇士美,kissme,kissme奇士美,[],0,"[('kissme', 100), ('kiss', 80)]",0
+9,珂潤,curel,curel珂潤,['珂潤'],0,"[('cure', 89)]",0
+10,莎娜,sana,sana莎娜,[],0,"[('isana', 89)]",0
+11,曼秀雷敦,mentholatum,mentholatum曼秀雷敦,[],0,[],0
+12,萬能媽媽,wonder mama,wonder mama萬能媽媽,[],0,[],0
+13,小蜜媞,carmex,carmex小蜜媞,[],0,"[('carome.', 83)]",0
+14,蘋果,apple,apple蘋果,[],0,[],0
+15,國際牌,panasonic,panasonic國際牌,['國際牌'],0,"[('panasonic', 100)]",0
+16,我的美麗日記,my beauty diary,my beauty diary我的美麗日記,[],0,[],0
+17,艾森絲,essence cosmetics,essence cosmetics艾森絲,[],0,[],0
+18,耐吉,nike,nike耐吉,[],0,[],0
+19,歐蕾,olay,olay歐蕾,[],0,[],0
+20,艾瑪花園,amma garden,amma garden艾瑪花園,['艾瑪花園'],0,[],0
+21,藍帶廚坊,lcb,lcb藍帶廚坊,[],0,"[('lb', 80)]",0
+22,喜蜜,heme,heme喜蜜,[],0,"[('heme', 100)]",0
+23,東元,teco,teco東元,['東元'],0,"[('tescom', 80)]",0
+24,媚點,media,media媚點,[],0,"[('ediya', 80)]",0
+25,伊萊克斯,electrolux,electrolux伊萊克斯,['伊萊克斯'],0,[],0
+26,小米,xiaomi,xiaomi小米,['小米'],0,[],0
+27,特福,tefal,tefal特福,[],0,[],1
+28,三星,samsung,samsung三星,[],0,[],0
+29,露華濃,revlon,revlon露華濃,[],0,[],0
+30,麗奇,reach,reach麗奇,['麗奇'],0,[],0
+31,愛仕達,asd,asd愛仕達,[],0,[],0
+32,華碩,asus,asus華碩,[],0,[],0
+33,法國皇家,royal,royal法國皇家,[],0,[],1
+34,愛迪達,adidas,adidas愛迪達,[],0,"[('adidas', 100)]",0
+35,時尚美妝,meko,meko時尚美妝,[],0,"[('melko', 89)]",0
+36,華米,amazfit,amazfit華米,[],0,[],0
+37,雪芙蘭,cellina,cellina雪芙蘭,['雪芙蘭'],0,[],0
+38,悠斯晶,yuskin,yuskin悠斯晶,[],0,"[('duskin', 83)]",0
+39,佳麗寶,kanebo,kanebo佳麗寶,[],0,[],1
+40,維他露,p,p維他露,['維他露'],0,[],0
+41,舒特膚,cetaphil,cetaphil舒特膚,['舒特膚'],0,[],0
+42,雅漾,avene,avene雅漾,[],0,[],0
+43,迪奧,dior,dior迪奧,[],0,"[('dior', 100)]",0
+44,優格,toma-pro,toma-pro優格,[],0,[],0
+45,卓威,zowie,zowie卓威,[],0,[],0
+46,鍋寶,cookpower,cookpower鍋寶,['鍋寶'],0,[],0
+47,黑松,heysong,heysong黑松,['黑松'],0,[],0
+48,蘭蔻,lancome,lancome蘭蔻,[],0,[],0
+49,蜜妮,biore,biore蜜妮,['蜜妮'],0,"[('biore', 100)]",0
+50,葛莉思,greens,greens葛莉思,[],0,[],0
+51,佳麗寶-開架式,kanebo,kanebo佳麗寶-開架式,[],0,[],1
+52,海洋拉娜,la mer,la mer海洋拉娜,[],0,[],0
+53,阿曼特,armonto,armonto阿曼特,[],0,[],0
+54,奇可俏可,chic choc,chic choc奇可俏可,[],0,"[('chicco', 80)]",0
+55,三詩達,sunstar,sunstar三詩達,['三詩達'],0,[],0
+56,味味,a,a味味,[],0,[],0
+57,潘婷,pantene,pantene潘婷,[],0,[],0
+58,戴爾,dell,dell戴爾,[],0,"[('ardell', 80)]",0
+59,妍霓絲,eileen grace,eileen grace妍霓絲,[],0,[],0
+60,品木宣言,origins,origins品木宣言,[],0,[],0
+61,明洞國際,mdmmd,mdmmd明洞國際,['明洞國際'],0,"[('mdmmd', 100)]",0
+62,聰明狗糧,iq dog,iq dog聰明狗糧,[],0,[],0
+63,渴望,orijen,orijen渴望,[],0,[],0
+64,呂,ryo,ryo呂,[],0,[],0
+65,貝膚黛瑪,bioderma,bioderma貝膚黛瑪,[],0,[],0
+66,歐都納,atunas,atunas歐都納,[],0,"[('catuna', 83)]",0
+67,理膚寶水,la roche posay,la roche posay理膚寶水,['理膚寶水'],0,[],0
+68,契爾氏,kiehl's,kiehl's契爾氏,[],0,[],0
+69,上山採藥,tsaio,tsaio上山採藥,['上山採藥'],0,"[('sakio', 80)]",0
+70,羅技,logitech,logitech羅技,[],0,[],0
+71,意高,ego,ego意高,[],0,"[('go!', 80)]",0
+72,水平衡,hydro balance,hydro balance水平衡,['水平衡'],0,[],0
+73,聲寶,sampo,sampo聲寶,['聲寶'],0,[],0
+74,艾惟諾,aveeno,aveeno艾惟諾,['艾惟諾'],0,[],0
+75,蘇妮薩,sunisa,sunisa蘇妮薩,[],0,"[('suisai', 83)]",0
+76,惜時,seeds,seeds惜時,[],0,[],1
+77,日立,hitachi,hitachi日立,['itachi日立'],0,[],0
+78,希爾思,hills,hills希爾思,[],0,"[('shills', 91), ('hiles', 80)]",0
+79,媚比琳,maybelline,maybelline媚比琳,[],0,[],0
+80,達特醫,dr.hsieh,dr.hsieh達特醫,[],0,"[('dr.hsieh', 100)]",0
+81,阿加菲亞老奶奶,grandmother agafia,grandmother agafia阿加菲亞老奶奶,[],0,[],0
+82,西莎,cesar,cesar西莎,[],0,[],0
+83,禾聯,heran,heran禾聯,['禾聯'],0,[],0
+84,台塑生醫,dr’s formula,dr’s formula台塑生醫,['台塑生醫'],1,[],0
+85,佑天蘭,utena,utena佑天蘭,[],0,[],0
+86,強品,chian pin,chian pin強品,[],0,[],0
+87,美萃,mature,mature美萃,[],0,[],0
+88,松木家電,matric,matric松木家電,[],0,[],0
+89,象印,zojirushi,zojirushi象印,['象印'],0,[],0
+90,齊葉雅,ziaja,ziaja齊葉雅,[],0,"[('ziaja', 100)]",0
+91,寵愛之名,forbelovedone,forbelovedone寵愛之名,[],0,[],0
+92,施巴,sebamed,sebamed施巴,['施巴'],0,[],0
+93,海德,head,head海德,[],0,[],0
+94,蒂沐蝶,timotei,timotei蒂沐蝶,[],0,"[('timotei', 100)]",0
+95,紐頓,nutram,nutram紐頓,[],0,[],0
+96,卡翠絲,catrice,catrice卡翠絲,[],0,[],0
+97,樂金,lg,lg樂金,['樂金'],0,"[('lg', 100)]",0
+98,寶拉珍選,paula's choice,paula's choice寶拉珍選,[],0,[],0
+99,樂美思,numis med,numis med樂美思,[],0,[],0
+100,旁氏,pond's,pond's旁氏,[],0,[],0
+101,歐樂,b,b歐樂,[],0,"[('b +', 100)]",0
+102,瑰柏翠,crabtree&evelyn,crabtree&evelyn瑰柏翠,['瑰柏翠'],1,[],0
+103,加好寶,classic pets,classic pets加好寶,[],0,[],0
+104,莫比,mobby,mobby莫比,[],0,[],0
+105,碧兒泉,biotherm,biotherm碧兒泉,[],0,[],0
+106,櫻特芮,integrate,integrate櫻特芮,[],0,[],0
+107,伊麗莎白雅頓,elizabeth arden,elizabeth arden伊麗莎白雅頓,['伊麗莎白雅頓'],0,[],0
+108,雅男士,lab series,lab series雅男士,[],0,[],0
+109,蘇菲娜,sofina,sofina蘇菲娜,[],0,[],0
+110,德國小甘菊,herbacin,herbacin德國小甘菊,[],0,[],0
+111,奧佳華,ogawa,ogawa奧佳華,[],0,"[('okawa', 80)]",0
+112,聖萊西,seeds,seeds聖萊西,[],0,[],1
+113,沛奇,pei ci,pei ci沛奇,[],0,[],0
+114,資生堂,shiseido,shiseido資生堂,['資生堂'],0,"[('shiseido men', 80)]",1
+115,蕾莉歐,l'erbolario,l'erbolario蕾莉歐,['蕾莉歐'],1,[],0
+116,高絲,kose,kose高絲,[],0,[],1
+117,艾瑪絲,aromase,aromase艾瑪絲,[],0,"[('aroma', 83)]",0
+118,敏感話題,d program,d program敏感話題,[],0,[],0
+119,后,whoo,whoo后,[],0,[],0
+120,寶瀅,persil,persil寶瀅,[],0,"[('persil', 100)]",0
+121,山頂鳥,hilltop,hilltop山頂鳥,[],0,[],0
+122,雅詩蘭黛,estee lauder,estee lauder雅詩蘭黛,[],0,[],0
+123,牙周適,parodontax,parodontax牙周適,[],0,[],0
+124,牛頭牌,buffalo,buffalo牛頭牌,['牛頭牌'],0,[],0
+125,喵洽普,plan cat,plan cat喵洽普,['喵洽普'],0,[],0
+126,芯之麗,sublimic,sublimic芯之麗,[],0,[],0
+127,牙醫選,dentiste',dentiste'牙醫選,[],0,[],0
+128,貓皇族,king wang,king wang貓皇族,[],0,[],0
+129,易生絲,essehair,essehair易生絲,[],0,[],0
+130,清水,shimizu,shimizu清水,[],0,[],0
+131,歐舒丹,l'occitane,l'occitane歐舒丹,['歐舒丹'],0,[],0
+132,荷蘭公主,princess,princess荷蘭公主,['荷蘭公主'],0,[],0
+133,特緹斯,twistix,twistix特緹斯,[],0,"[('twist', 83)]",0
+134,施華蔻,schwarzkopf,schwarzkopf施華蔻,[],0,[],0
+135,歌林,kolin,kolin歌林,['歌林'],0,[],0
+136,瑪宣妮,macherie,macherie瑪宣妮,['瑪宣妮'],0,[],0
+137,耀,eau,eau耀,[],0,[],0
+138,亨式,heinz,heinz亨式,[],0,[],0
+139,韓國,422inc,422inc韓國,[],0,[],0
+140,健康主義,ghr,ghr健康主義,[],0,"[('ghr', 100)]",0
+141,惠而浦,whirlpool,whirlpool惠而浦,['惠而浦'],0,[],0
+142,膚蕊,freshel,freshel膚蕊,[],0,[],0
+143,健康紀元,healthy era,healthy era健康紀元,[],0,[],0
+144,亞瑟士,asics,asics亞瑟士,[],0,[],0
+145,統一,ab,ab統一,['統一'],1,"[('abc', 80)]",0
+146,艾杜紗,ettusais,ettusais艾杜紗,[],0,[],0
+147,博朗氏,balance,balance博朗氏,['博朗氏'],0,"[('b balance', 88)]",0
+148,愛樂薇,elle & vire,elle & vire愛樂薇,[],0,[],0
+149,芭比波朗,bobbi brown,bobbi brown芭比波朗,[],0,[],0
+150,高絲-專櫃,kose,kose高絲-專櫃,[],0,[],1
+151,岩谷,iwatani,iwatani岩谷,[],0,[],0
+152,戀愛魔鏡,majolica majorca,majolica majorca戀愛魔鏡,[],0,[],0
+153,飛想茶,fuze tea,fuze tea飛想茶,[],0,[],0
+154,原點,instinct,instinct原點,[],0,[],0
+155,雷馬,lexma,lexma雷馬,[],0,[],0
+156,樂迪,ld,ld樂迪,[],0,[],0
+157,丹麥德瑪,derma,derma丹麥德瑪,[],0,"[('derma', 100), ('dermal', 91), ('dermisa', 83)]",0
+158,樂天,lotte,lotte樂天,['樂天'],0,"[('lotte', 100), ('lotto', 80)]",0
+159,興波咖啡,simple kaffa,simple kaffa興波咖啡,['興波咖啡'],0,[],0
+160,沛特斯,petal fresh,petal fresh沛特斯,['沛特斯'],0,[],0
+161,博帝,viper,viper博帝,[],0,[],0
+162,倩碧,clinique,clinique倩碧,[],0,[],0
+163,凱婷,kate tokyo,kate tokyo凱婷,[],1,[],0
+164,婕洛妮絲,jealousness,jealousness婕洛妮絲,[],0,[],0
+165,米森,vilson,vilson米森,[],0,[],0
+166,日本植物精粹極緻奢華保養,lits,lits日本植物精粹極緻奢華保養,[],0,[],0
+167,豐台灣,from taiwan,from taiwan豐台灣,[],0,[],0
+168,近江兄弟社,omi,omi近江兄弟社,[],0,"[('pomi', 86)]",0
+169,牛爾親研,naruko,naruko牛爾親研,[],0,[],0
+170,法米納,farmina,farmina法米納,[],0,[],0
+171,0.0,ph9.0,ph9.0.0,[],0,[],0
+172,三洋,sanlux,sanlux三洋,[],0,[],1
+173,竣寶,gimpet,gimpet竣寶,[],0,[],0
+174,蜂王,queen bee,queen bee蜂王,[],0,[],0
+175,杜克,c-skin,c-skin杜克,[],0,[],0
+176,慧心貓糧,smartheart,smartheart慧心貓糧,[],0,[],1
+177,貓戀人,honey cat,honey cat貓戀人,['貓戀人'],0,[],0
+178,廣鼎,intopic,intopic廣鼎,[],0,[],0
+179,植感,q'her,q'her植感,[],0,[],0
+180,凡士林,vaseline,vaseline凡士林,[],0,[],0
+181,植村秀,shu uemura,shu uemura植村秀,[],0,[],0
+182,艾薇塔,evita,evita艾薇塔,[],0,"[('vita', 89), ('revital', 83)]",0
+183,西西露,sexylook,sexylook西西露,[],0,[],0
+184,赫蓮娜,helena rubinstein,helena rubinstein赫蓮娜,['hr赫蓮娜'],0,[],0
+185,夏普,sharp,sharp夏普,['夏普'],0,[],0
+186,花王,kao,kao花王,['花王'],0,[],0
+187,法麗,cherie,cherie法麗,[],0,[],0
+188,捷森,jason,jason捷森,[],0,[],0
+189,琺鈉,vana candles,vana candles琺鈉,[],0,[],0
+190,香奈兒,chanel,chanel香奈兒,[],0,[],0
+191,西雅圖,barista,barista西雅圖,['西雅圖'],0,"[('brita', 83)]",0
+192,索尼,sony,sony索尼,[],0,"[('sony', 100)]",0
+193,漁極,akika,akika漁極,[],0,[],0
+194,艾諾琪,energy,energy艾諾琪,[],0,[],0
+195,福壽,fuso,fuso福壽,['fuso pets福壽'],0,[],0
+196,芮可,rico,rico芮可,[],0,[],0
+197,耐嘉,kinyo,kinyo耐嘉,[],0,[],0
+198,可口可樂,coca cola,coca cola可口可樂,[],0,[],0
+199,紐崔克,natureke,natureke紐崔克,[],0,"[('naturehike', 89), ('naturie', 80)]",0
+200,貝奧莉,browit,browit貝奧莉,[],0,[],0
+201,微星科技,msi,msi微星科技,[],0,[],1
+202,始祖鳥,arcteryx,arcteryx始祖鳥,[],0,[],0
+203,雷蛇,razer,razer雷蛇,[],0,[],0
+204,愛維他,lovita,lovita愛維他,['愛維他'],0,"[('vita', 80)]",0
+205,茲恩,zenn.th,zenn.th茲恩,[],0,[],0
+206,優沛特,upet,upet優沛特,[],0,[],0
+207,天際線,horizon,horizon天際線,[],0,"[('orion', 83)]",0
+208,威德,weider,weider威德,['威德'],0,[],0
+209,桂格,quaker,quaker桂格,[],0,[],0
+210,克麗詩黛,kocskin,kocskin克麗詩黛,[],0,[],0
+211,直覺,sweet touch,sweet touch直覺,['直覺'],0,[],0
+212,奧蜜思,orbis,orbis奧蜜思,[],0,[],0
+213,奧力棒,ozbone,ozbone奧力棒,[],0,"[('bone', 80)]",0
+214,美津農,mizuno,mizuno美津農,[],0,[],1
+215,倍思特,best,best倍思特,[],0,[],0
+216,范倫鐵諾,valentino rudy,valentino rudy范倫鐵諾,[],0,[],0
+217,斑馬牌,zebra ,zebra 斑馬牌,[],0,[],0
+218,汰漬,tide,tide汰漬,[],0,"[('tide', 100)]",0
+219,多芬,dove,dove多芬,['多芬'],0,[],0
+220,惠普,hp,hp惠普,[],0,[],0
+221,櫻花,sakura,sakura櫻花,[],0,[],0
+222,狼蛛,aula,aula狼蛛,[],0,[],0
+223,狐鐳,foxxray,foxxray狐鐳,[],0,[],0
+224,喵樂,m'daryn,m'daryn喵樂,[],0,[],0
+225,偉嘉,whiskas,whiskas偉嘉,[],0,[],0
+226,可利亞,kria,kria可利亞,[],0,[],0
+227,綠的,green,green綠的,['綠的'],0,"[('greenon', 83)]",0
+228,麗優,duo,duo麗優,[],0,[],0
+229,伊克萊,egekilde,egekilde伊克萊,[],0,[],0
+230,樂敦,rohto,rohto樂敦,[],0,[],1
+231,碧菲絲特,bifesta,bifesta碧菲絲特,[],0,[],0
+232,天天美麗,beauty buffet,beauty buffet天天美麗,[],0,[],0
+233,東芝,toshiba,toshiba東芝,['東芝'],0,[],0
+234,雪花秀,sulwhasoo,sulwhasoo雪花秀,[],0,[],0
+235,魔唇,therapind,therapind魔唇,[],0,[],0
+236,聖羅蘭,ysl,ysl聖羅蘭,[],0,"[('sl', 80)]",1
+237,耐吉斯,solution,solution耐吉斯,[],0,"[('jmsolution', 89), ('evolution', 82)]",0
+238,明色,meishoku,meishoku明色,[],0,[],0
+239,資生堂東京櫃,shiseido,shiseido資生堂東京櫃,[],0,"[('shiseido men', 80)]",1
+240,愛思,is,is愛思,[],0,[],0
+241,韓國歐紳,osner,osner韓國歐紳,[],0,"[('oster', 80)]",0
+242,夏爾保養,sher,sher夏爾保養,[],0,"[('she', 86)]",0
+243,清妍,simple,simple清妍,[],0,[],0
+244,台塑生醫,forte,forte台塑生醫,['台塑生醫'],1,[],0
+245,自然物語,nature story,nature story自然物語,[],0,[],0
+246,台隆手創館,tokyu hands,tokyu hands台隆手創館,[],0,[],0
+247,愛喜雅,aixia,aixia愛喜雅,[],0,[],0
+248,菲詩小舖,the face shop,the face shop菲詩小舖,[],0,[],0
+249,克蘭詩,clarins,clarins克蘭詩,[],0,[],0
+250,日本獅王趣淨,lion kirei-kirei,lion kirei-kirei日本獅王趣淨,[],1,[],0
+251,奧斯卡,etude,etude奧斯卡,[],0,[],0
+252,亞米亞米,yami yami,yami yami亞米亞米,[],0,[],0
+253,雪曼妮,shirmeny,shirmeny雪曼妮,[],0,[],0
+254,海盜船,corsair,corsair海盜船,[],0,[],0
+255,寵物健康,wellness,wellness寵物健康,[],0,"[('wellness', 100)]",0
+256,日立,itachi,itachi日立,[],1,[],0
+257,漢城淨雪,jeogseoul,jeogseoul漢城淨雪,[],0,[],0
+258,努特,nuit,nuit努特,[],0,[],0
+259,明基,benq,benq明基,[],0,[],0
+260,達爾膚,dr.wu,dr.wu達爾膚,[],0,[],0
+261,茶寶,teapower,teapower茶寶,[],0,"[('e-power', 80), ('a+ power', 80)]",0
+262,絕色紐約,absolute new york,absolute new york絕色紐約,[],0,[],0
+263,希翠斯,citrus,citrus希翠斯,[],0,[],0
+264,歐克威爾,oh-care,oh-care歐克威爾,[],0,[],0
+265,珂莉奧,clio,clio珂莉奧,[],0,[],0
+266,肌膚之鑰,cle de peau beaute,cle de peau beaute肌膚之鑰,[],0,[],0
+267,熊寶貝,snuggle,snuggle熊寶貝,['熊寶貝'],0,[],0
+268,第一饗宴,firstmate,firstmate第一饗宴,[],0,[],0
+269,摩卡,mocca,mocca摩卡,[],0,[],0
+270,視界,e,e視界,[],0,[],0
+271,樂扣樂扣,locknlock,locknlock樂扣樂扣,[],0,[],0
+272,力保美達,lipovitan,lipovitan力保美達,[],0,[],0
+273,卡氛,kafen,kafen卡氛,['卡氛'],0,[],0
+274,飛柔,pert,pert飛柔,[],0,[],0
+275,冠能,pro plan,pro plan冠能,[],0,[],0
+276,伊崎,ikiiki,ikiiki伊崎,[],0,"[('kiki', 80)]",0
+277,統一,lp33,lp33統一,['統一'],1,"[('lp33', 100)]",0
+278,紅牛,red cow,red cow紅牛,['紅牛'],1,[],0
+279,資生堂國際櫃,shiseido,shiseido資生堂國際櫃,[],0,"[('shiseido men', 80)]",1
+280,安耐曬,anessa,anessa安耐曬,[],0,[],0
+281,未來美,mirae,mirae未來美,[],0,[],0
+282,理想,perfect,perfect理想,[],0,[],0
+283,美士,nutro,nutro美士,[],0,[],0
+284,猋,pure,pure猋,['猋'],0,"[('pure', 100), ('pureal', 80)]",1
+285,思波綺,tsubaki,tsubaki思波綺,[],0,[],0
+286,台灣三洋,sanlux,sanlux台灣三洋,['台灣三洋'],0,[],1
+287,絲蘊,syoss,syoss絲蘊,[],0,[],0
+288,海爾,haier,haier海爾,['海爾'],0,[],0
+289,貓倍麗,monpetit,monpetit貓倍麗,[],0,[],0
+290,愛樂齒,ora2,ora2愛樂齒,[],0,[],0
+291,麗克特,recolte,recolte麗克特,['麗克特'],0,[],0
+292,帕瑪氏,palmer's,palmer's帕瑪氏,[],0,[],0
+293,御衣坊,akira,akira御衣坊,['御衣坊'],0,[],0
+294,純淨妍,pure.tiful,pure.tiful純淨妍,[],0,[],0
+295,土耳其,e.s.t.,e.s.t.土耳其,[],0,[],0
+296,薇姿,vichy,vichy薇姿,[],0,[],0
+297,歐萊德,oright,oright歐萊德,['歐萊德'],1,[],0
+298,波特嫚,tt kotemein tt,tt kotemein tt波特嫚,[],0,[],0
+299,凱瑞克,kalorik,kalorik凱瑞克,[],0,[],0
+300,大同,tatung,tatung大同,[],0,[],0
+301,提提研,ttm,ttm提提研,[],0,[],0
+302,法緻,fees,fees法緻,[],0,"[('fees', 100)]",0
+303,德國植萃,cosnature,cosnature德國植萃,[],0,[],0
+304,惠百施,ebisu,ebisu惠百施,[],0,"[('yebisu', 91)]",0
+305,香草集,justherb,justherb香草集,['香草集'],0,"[('justherb', 100)]",0
+306,澳洲依美油,u beauty,u beauty澳洲依美油,[],0,"[('beauty', 86), ('pure beauty', 84), ('ks beauty', 82)]",0
+307,雀巢,nestle,nestle雀巢,['雀巢'],0,[],0
+308,雷柏,rapoo,rapoo雷柏,[],0,[],0
+309,貝印,kai,kai貝印,[],0,[],0
+310,藍帶,lv primeblue,lv primeblue藍帶,[],0,[],0
+311,樂倍,lapetz,lapetz樂倍,[],0,[],0
+312,多益得,all clean,all clean多益得,[],0,[],0
+313,普洛斯,prosi,prosi普洛斯,['普洛斯'],0,[],0
+314,奇美,chimei,chimei奇美,[],0,[],0
+315,宏碁,acer,acer宏碁,[],0,"[('ace', 86)]",0
+316,麥德絲肌,mildskin,mildskin麥德絲肌,[],0,"[('wildkin', 80)]",0
+317,奇妮,gennies,gennies奇妮,[],0,[],0
+318,適樂膚,cerave,cerave適樂膚,[],0,[],0
+319,斐濟,fiji,fiji斐濟,[],0,[],0
+320,綠野鮮食,health extension,health extension綠野鮮食,[],0,[],0
+321,福壽,fuso pets,fuso pets福壽,[],1,[],0
+322,奢華寶貝,bebe poshe,bebe poshe奢華寶貝,[],0,[],0
+323,森歐黎漾,saholea,saholea森歐黎漾,['森歐黎漾'],0,"[('saholea', 100)]",0
+324,健納緹,get naked,get naked健納緹,[],0,[],0
+325,薇佳,swissvita,swissvita薇佳,[],0,[],0
+326,瑞軒,amtran,amtran瑞軒,[],0,[],0
+327,卡薩,casa,casa卡薩,[],0,"[('casa', 100)]",0
+328,舊街場,oldtown,oldtown舊街場,[],0,[],0
+329,花仙子,farcent,farcent花仙子,[],0,"[('farcent', 100)]",0
+330,伊藤園,ito en,ito en伊藤園,['伊藤園'],0,[],0
+331,蘭吉兒,l'egere,l'egere蘭吉兒,[],1,[],0
+332,惹我,neuve,neuve惹我,[],0,[],0
+333,巴絲特,baster,baster巴絲特,[],0,[],0
+334,活力零食,gootoe,gootoe活力零食,[],0,[],0
+335,恩荷,enherb,enherb恩荷,[],0,[],0
+336,康貝,combi,combi康貝,['康貝'],0,"[('combi', 100), ('combo', 80)]",0
+337,貝親,pigeon,pigeon貝親,['貝親'],0,[],0
+338,蘭芝,laneige,laneige蘭芝,[],0,[],0
+339,宏晉,hong jin,hong jin宏晉,[],0,[],0
+340,繪子貓,econeco,econeco繪子貓,[],0,[],0
+341,丸三,marusan,marusan丸三,[],0,[],0
+342,八道,paldo,paldo八道,[],0,[],0
+343,伊絲婷,elastine,elastine伊絲婷,[],0,[],0
+344,虎牌,tiger,tiger虎牌,['虎牌'],0,[],0
+345,柔蝶,roudye,roudye柔蝶,[],0,"[('rudy', 80)]",0
+346,堤瑪露,timaru,timaru堤瑪露,[],0,[],0
+347,盛源,shengyuan,shengyuan盛源,[],0,[],0
+348,托斯卡,tuscan natural,tuscan natural托斯卡,[],0,[],0
+349,嬌生,johnson's,johnson's嬌生,['嬌生'],0,[],0
+350,慧心,smartheart,smartheart慧心,[],0,[],1
+351,美心,masions,masions美心,[],0,[],0
+352,健康時刻,chewy time,chewy time健康時刻,[],0,[],0
+353,艾沛,ipet,ipet艾沛,[],0,[],0
+354,艾芮克,i-rocks,i-rocks艾芮克,[],0,[],0
+355,艾富鮮,a freschi srl,a freschi srl艾富鮮,[],0,[],0
+356,塔谷米,takumi,takumi塔谷米,[],0,"[('takumi', 100)]",0
+357,美肌醫生,df,df美肌醫生,[],0,[],0
+358,思美洛,ice,ice思美洛,[],0,[],0
+359,可娜,kona,kona可娜,[],0,[],0
+360,咖啡講,caffe chat,caffe chat咖啡講,[],0,[],0
+361,美咖,mkup,mkup美咖,[],0,[],0
+362,船井醫朵保養,ido,ido船井醫朵保養,[],0,[],0
+363,麗仕,lux,lux麗仕,['麗仕'],0,[],0
+364,康寧,corningware,corningware康寧,[],0,[],0
+365,深海美肌專家,psk,psk深海美肌專家,[],0,[],1
+366,倍立雅,beautia,beautia倍立雅,[],0,[],0
+367,阿葵亞,aquair,aquair阿葵亞,[],0,[],0
+368,賽吉兒,saugella,saugella賽吉兒,[],0,[],0
+369,富及第,frigidaire,frigidaire富及第,['富及第'],0,[],0
+370,阿爾卡特,alcatel,alcatel阿爾卡特,[],0,[],0
+371,旺德,wonder,wonder旺德,[],0,"[('dr.wonder', 80)]",0
+372,咪碼,mimar,mimar咪碼,[],0,[],0
+373,蜜濃,minon aminomoist,minon aminomoist蜜濃,[],0,[],0
+374,伊德爾,el,el伊德爾,['伊德爾'],0,[],0
+375,美茜兒,maycheer,maycheer美茜兒,[],0,"[('maycheer', 100)]",0
+376,安娜柏林,annemarie borlind,annemarie borlind安娜柏林,[],0,[],0
+377,巴黎萊雅,l'oreal paris,l'oreal paris巴黎萊雅,[],0,[],0
+378,克寧,klim,klim克寧,['克寧'],0,[],0
+379,沛麗康,pelican,pelican沛麗康,[],0,[],0
+380,思高,siegal,siegal思高,[],0,[],0
+381,歐瑞,yarrah,yarrah歐瑞,[],0,[],0
+382,丹,dan,dan丹,[],0,[],0
+383,貝麗瑪丹,belle madame,belle madame貝麗瑪丹,[],0,[],0
+384,微星,msi,msi微星,[],0,[],1
+385,娜艾菩,naive,naive娜艾菩,[],0,[],0
+386,怡麗絲爾,elixir,elixir怡麗絲爾,[],0,[],0
+387,人因科技,ergotech,ergotech人因科技,[],0,[],0
+388,凱夢,dream trend,dream trend凱夢,[],0,[],0
+389,舒味思,schweppes,schweppes舒味思,['舒味思'],0,[],0
+390,倍思,baseus,baseus倍思,[],0,[],0
+391,屈臣氏,watsons,watsons屈臣氏,['屈臣氏'],0,"[('watsons', 100)]",0
+392,自然癮食,addiction,addiction自然癮食,[],0,[],0
+393,怪獸部落,litomon,litomon怪獸部落,['怪獸部落'],0,[],0
+394,華為,huawei,huawei華為,[],0,[],0
+395,恩倍思,embryolisse,embryolisse恩倍思,[],0,[],0
+396,新肌霓,ingeni,ingeni新肌霓,[],0,[],0
+397,卡格,kakato,kakato卡格,[],0,[],0
+398,麗膚再生,revive,revive麗膚再生,[],0,[],0
+399,逸萱秀,essentia,essentia逸萱秀,[],0,[],0
+400,科克蘭,kirkland signature,kirkland signature科克蘭,[],1,[],0
+401,日本,lishan,lishan日本,[],0,[],0
+402,歐斯恩,oceanique,oceanique歐斯恩,['歐斯恩'],0,[],0
+403,威比,wellbe,wellbe威比,[],0,[],0
+404,完美日記,perfect diary,perfect diary完美日記,[],0,[],0
+405,潤波,rinpoo,rinpoo潤波,[],0,[],0
+406,優妹,u-may,u-may優妹,[],0,[],0
+407,美體小舖,the body shop,the body shop美體小舖,[],0,"[('the body shop', 100), ('on the body', 83)]",0
+408,蕾斯卡歐,lescaut,lescaut蕾斯卡歐,[],0,[],0
+409,潔美淨,physiogel,physiogel潔美淨,[],0,[],0
+410,魔爪,monster energy,monster energy魔爪,[],0,[],0
+411,森鮮,forest,forest森鮮,[],0,[],0
+412,韓波俐,hanboly,hanboly韓波俐,['韓波俐'],0,[],0
+413,巴黎帕芬,parfum,parfum巴黎帕芬,[],0,"[('parfum', 100)]",0
+414,台菱,paddy,paddy台菱,[],0,[],0
+415,奧藍多,allando,allando奧藍多,[],0,"[('palladio', 80)]",0
+416,菲蘇德美,phisoderm,phisoderm菲蘇德美,['菲蘇德美'],0,[],0
+417,技嘉,gigabyte,gigabyte技嘉,[],0,[],0
+418,愛惠浦,everpure,everpure愛惠浦,[],0,[],0
+419,愛恩富,anf,anf愛恩富,['愛恩富'],0,[],0
+420,康定,contin,contin康定,[],0,[],0
+421,美洲獅,cougar,cougar美洲獅,[],0,[],0
+422,慕之恬廊,mustela,mustela慕之恬廊,[],0,"[('mustela', 100)]",0
+423,史普尼克,sputnik,sputnik史普尼克,[],0,[],0
+424,聯想,lenovo,lenovo聯想,[],0,[],0
+425,沙宣,vs,vs沙宣,['沙宣'],0,[],0
+426,芙莉思,freeplus,freeplus芙莉思,[],0,[],0
+427,德國達麗,dalli,dalli德國達麗,[],0,[],0
+428,美人網,pg,pg美人網,[],0,"[('apg', 80)]",0
+429,潤肌精,junkisei prime,junkisei prime潤肌精,[],0,[],0
+430,三菱,mitsubishi,mitsubishi三菱,['三菱'],0,[],0
+431,巴西里亞,brasilia,brasilia巴西里亞,[],0,[],0
+432,戀愛密碼,love code,love code戀愛密碼,[],0,[],0
+433,九陽,joyoung,joyoung九陽,['九陽'],0,[],0
+434,饗食,peter,peter饗食,[],0,[],0
+435,好味小姐,lady flavor,lady flavor好味小姐,[],0,[],0
+436,台塑生醫,dr's formula,dr's formula台塑生醫,['台塑生醫'],1,[],0
+437,嬌聯,unicharm,unicharm嬌聯,[],0,[],0
+438,豐力富,fernleaf,fernleaf豐力富,[],0,[],0
+439,東洋,qtta,qtta東洋,[],0,[],0
+440,澳寶,opal,opal澳寶,[],0,[],0
+441,微卡,ifit,ifit微卡,[],0,[],0
+442,無印良品,muji,muji無印良品,['無印良品'],0,[],0
+443,日本,toffy,toffy日本,[],0,"[('toffy', 100)]",0
+444,歐芮坦,orita,orita歐芮坦,['歐芮坦'],0,"[('brita', 80)]",0
+445,澎澎,pon pon manman,pon pon manman澎澎,['澎澎'],0,[],0
+446,綠藤生機,greenvines,greenvines綠藤生機,['綠藤生機'],0,[],0
+447,蔻蘿蘭,klorane,klorane蔻蘿蘭,['蔻蘿蘭'],0,[],0
+448,奇拉,keyra,keyra奇拉,[],0,[],0
+449,咪歐,me-o,me-o咪歐,[],0,[],0
+450,科皙佳,corsica,corsica科皙佳,[],0,"[('corsica', 100)]",0
+451,貝恩,baan,baan貝恩,['貝恩'],0,"[('baan', 100)]",0
+452,朵法,darphin,darphin朵法,[],0,[],0
+453,艾黎亞,anriea,anriea艾黎亞,['艾黎亞'],0,[],0
+454,優生,us baby,us baby優生,['優生'],0,[],0
+455,樂透,beaphar,beaphar樂透,[],0,[],0
+456,媞爾妮,deary,deary媞爾妮,[],0,"[('deary', 100), ('dear my', 83)]",0
+457,紐健士,supreme source,supreme source紐健士,[],0,[],0
+458,康朵,qundo,qundo康朵,['康朵'],0,[],0
+459,康芙麗,comefree,comefree康芙麗,[],0,[],0
+460,德國冰豹,roccat,roccat德國冰豹,[],0,[],0
+461,艾翠斯,atrix,atrix艾翠斯,[],0,[],0
+462,大河,taiga,taiga大河,['大河'],0,"[('taiga', 100)]",0
+463,博寶兒,probo,probo博寶兒,[],0,"[('probox', 91)]",0
+464,倫敦芮魅,rimmel,rimmel倫敦芮魅,[],0,[],0
+465,唯潔,whimzees,whimzees唯潔,[],0,[],0
+466,倫士度,lucido,lucido倫士度,[],0,[],0
+467,蘭韻,la lune,la lune蘭韻,['蘭韻'],0,[],0
+468,歐坷蔓,alkmene,alkmene歐坷蔓,[],0,[],0
+469,水之印,aqua label,aqua label水之印,[],0,[],0
+470,吟麗,dydo,dydo吟麗,[],0,"[('dydo', 100)]",0
+471,美亞,meyer,meyer美亞,[],0,[],0
+472,布朗博士,dr. bronner's,dr. bronner's布朗博士,['布朗博士'],0,[],0
+473,娜奧,now,now娜奧,[],0,"[('now!', 100)]",0
+474,思親膚,skinfood,skinfood思親膚,[],0,[],0
+475,名象,min shiang,min shiang名象,[],0,[],0
+476,諾鈣,c,c諾鈣,[],0,[],0
+477,美喵人生,o’kat,o’kat美喵人生,[],0,[],0
+478,維齊,vi.chi,vi.chi維齊,[],0,[],0
+479,澳佳寶,blackmores,blackmores澳佳寶,[],0,[],0
+480,卡比,canidae,canidae卡比,[],0,[],0
+481,歐恩,on,on歐恩,[],0,"[('one', 80), ('mon', 80)]",0
+482,黎可詩,nuxe,nuxe黎可詩,[],0,[],1
+483,沛醫亞,pair,pair沛醫亞,[],0,[],0
+484,克奈圃,kneipp,kneipp克奈圃,['克奈圃'],0,[],0
+485,日清,nissin,nissin日清,['日清'],0,[],0
+486,碧唇,blistex,blistex碧唇,[],0,[],0
+487,芬達,fanta,fanta芬達,[],0,[],0
+488,茵芙莎,ipsa,ipsa茵芙莎,[],0,[],0
+489,義大利,balzano,balzano義大利,[],0,"[('balzano', 100)]",0
+490,歐森,awson,awson歐森,[],0,[],0
+491,法國特福,tefal,tefal法國特福,[],0,[],1
+492,大拇指,fp,fp大拇指,['大拇指'],0,[],0
+493,絲芙蒂,softymo,softymo絲芙蒂,[],0,[],0
+494,三得利,suntory,suntory三得利,['三得利'],0,[],0
+495,德國雙人,zwilling,zwilling德國雙人,[],0,[],0
+496,暹羅,desiam,desiam暹羅,[],0,[],0
+497,威技牌,new widetech,new widetech威技牌,[],0,[],0
+498,維吉,vegepet,vegepet維吉,[],0,[],0
+499,亞曼尼,giorgio armani,giorgio armani亞曼尼,['armani亞曼尼'],0,"[('giorgio armani', 100)]",0
+500,瓶中精靈,genie,genie瓶中精靈,[],0,[],0
+501,百事可樂,pepsi,pepsi百事可樂,[],0,[],0
+502,愛妥麗,atopiclair,atopiclair愛妥麗,[],0,[],0
+503,紐樂芙,nulo,nulo紐樂芙,[],0,[],0
+504,倍樂福,benevo,benevo倍樂福,[],0,[],0
+505,小人物,minor figures,minor figures小人物,[],0,[],0
+506,可伶可俐,clean&clear,clean&clear可伶可俐,[],0,[],0
+507,得美登,dermeden,dermeden得美登,[],0,[],0
+508,保羅叔叔,uncle paul,uncle paul保羅叔叔,[],0,[],0
+509,百工,decker,decker百工,[],0,[],0
+510,歐漾,alya,alya歐漾,[],0,"[('alyea', 89)]",0
+511,長紅,everred,everred長紅,[],0,[],0
+512,曜越,tt esports,tt esports曜越,[],0,[],0
+513,喜樂寵宴,joy food,joy food喜樂寵宴,[],0,[],0
+514,嬌蘭,guerlain,guerlain嬌蘭,[],0,[],0
+515,日本樂敦,rohto,rohto日本樂敦,[],0,[],1
+516,日卜力,daily boost,daily boost日卜力,[],0,[],0
+517,英國,rab,rab英國,[],0,[],0
+518,伊夫·聖羅蘭,ysl,ysl伊夫·聖羅蘭,[],0,"[('sl', 80)]",1
+519,瑪恩吉,monge,monge瑪恩吉,[],0,[],0
+520,沛柔,pearlau,pearlau沛柔,[],0,[],0
+521,捷藝,jetart,jetart捷藝,[],0,[],0
+522,統一寶多福,petlife,petlife統一寶多福,[],1,[],0
+523,詩杭,siau,siau詩杭,[],0,[],0
+524,沛優絲,bioblas,bioblas沛優絲,[],0,[],0
+525,貓侍,catpool,catpool貓侍,[],0,[],0
+526,克瑞斯,crius,crius克瑞斯,[],0,[],0
+527,精油大學,faceschool,faceschool精油大學,[],0,[],0
+528,諾婕蒂,nobori,nobori諾婕蒂,[],0,[],0
+529,朝日,asahi,asahi朝日,['朝日'],0,"[('asahi', 100)]",0
+530,三多,sentosa,sentosa三多,['三多'],0,[],0
+531,喜凱露,hikaru,hikaru喜凱露,[],0,"[('haru', 80)]",0
+532,富士通,fujitsu,fujitsu富士通,['富士通'],0,[],0
+533,膳魔師,thermos,thermos膳魔師,[],0,[],0
+534,未來實驗室,future lab.,future lab.未來實驗室,[],1,[],0
+535,掠奪者,predator shot,predator shot掠奪者,[],0,[],0
+536,美迪惠爾,mediheal,mediheal美迪惠爾,[],0,[],0
+537,喬亞,georgia,georgia喬亞,[],0,[],0
+538,佐登妮絲,jourdeness,jourdeness佐登妮絲,['佐登妮絲'],0,[],0
+539,韓國,cj,cj韓國,[],0,[],0
+540,肯拿士,canus,canus肯拿士,[],0,[],0
+541,皇冠,crown,crown皇冠,['皇冠'],0,[],0
+542,雅聞,arwin,arwin雅聞,[],0,[],0
+543,艾草,isntree,isntree艾草,[],0,[],0
+544,德美醫研,derma lab,derma lab德美醫研,[],0,"[('dermal', 80)]",0
+545,珂瑪德,gamarde,gamarde珂瑪德,[],0,[],0
+546,未來實驗室,future lab,future lab未來實驗室,['future lab.未來實驗室'],0,[],0
+547,新科若林,skinrolling,skinrolling新科若林,[],0,[],0
+548,多納滋,natural pie,natural pie多納滋,[],0,[],0
+549,美國貝克,petag,petag美國貝克,[],0,"[('petia', 80)]",0
+550,澳維花園,ausgarden,ausgarden澳維花園,[],0,[],0
+551,可瑞絲,kerasys,kerasys可瑞絲,[],0,[],0
+552,美津濃,mizuno,mizuno美津濃,[],0,[],1
+553,艾芙美,a-derma,a-derma艾芙美,[],0,"[('derma', 83)]",0
+554,摩爾思,mores,mores摩爾思,['摩爾思'],0,"[('more', 89)]",0
+555,艾德蒙,aoc,aoc艾德蒙,[],0,"[('aoc', 100)]",0
+556,普瑞納,purina,purina普瑞納,[],0,[],0
+557,肯特,kent,kent肯特,[],0,"[('kent', 100)]",0
+558,義大利草本專家,antica,antica義大利草本專家,[],0,"[('antian', 83)]",0
+559,羅蜜歐,romeo,romeo羅蜜歐,[],0,[],1
+560,伴您一生,be with you,be with you伴您一生,[],0,[],0
+561,香蒲麗,shangpree,shangpree香蒲麗,[],0,[],0
+562,樂卡克,le coq sportif,le coq sportif樂卡克,[],0,[],0
+563,小蜜蜂爺爺,burt's bees,burt's bees小蜜蜂爺爺,[],0,"[(""burt's bees"", 100)]",0
+564,小狗電器,puppy,puppy小狗電器,[],0,[],0
+565,曼娜麗,manara,manara曼娜麗,[],0,[],0
+566,伊薩娜,isana,isana伊薩娜,[],0,"[('isana', 100)]",0
+567,美膳雅,cuisinart,cuisinart美膳雅,['美膳雅'],0,[],0
+568,伊聖詩,escents,escents伊聖詩,"['伊聖詩', 'cosmescents伊聖詩']",0,[],0
+569,黃禎憲,dr.huang,dr.huang黃禎憲,[],0,[],0
+570,勝利體育,victor,victor勝利體育,[],0,"[('vico', 80)]",0
+571,琺頌,fasun,fasun琺頌,[],0,"[('fasun', 100)]",0
+572,倍舒暢300,300 probiotics 300,300 probiotics 300倍舒暢300,[],0,[],0
+573,菲爾比,health philosophy,health philosophy菲爾比,[],0,[],0
+574,奧兰諾,oranot,oranot奧兰諾,[],0,[],0
+575,巔峰,ziwipeak,ziwipeak巔峰,[],0,[],0
+576,統一,dr.milker,dr.milker統一,['統一'],1,[],0
+577,法柏,bova,bova法柏,[],0,[],0
+578,睿米科技,roidmi,roidmi睿米科技,[],0,[],0
+579,娜麗絲,naris up,naris up娜麗絲,[],0,[],0
+580,娜普菈,napla,napla娜普菈,[],0,[],0
+581,妮娜小姐,miss nella,miss nella妮娜小姐,[],0,[],0
+582,凱婷,kate,kate凱婷,['kate tokyo凱婷'],0,"[('skater', 80)]",0
+583,艾德凡斯,advanced,advanced艾德凡斯,[],0,[],0
+584,芳吉絲,heit miro,heit miro芳吉絲,[],0,[],0
+585,法國小橄欖樹,le petit olivier,le petit olivier法國小橄欖樹,[],0,[],0
+586,艾蜜塔,apivita,apivita艾蜜塔,[],0,"[('apivita', 100)]",0
+587,護一生,ts6,ts6護一生,[],0,"[('ts6', 100), ('ts', 80)]",0
+588,廣源良,kuanyuanlian,kuanyuanlian廣源良,[],0,[],0
+589,橋登,jordon,jordon橋登,[],0,"[('jordan', 83)]",0
+590,荷柏園,herbox,herbox荷柏園,['荷柏園'],0,[],0
+591,伊夫‧黎雪,yves rocher,yves rocher伊夫‧黎雪,[],0,"[('yves rocher', 100)]",0
+592,洛斯巴赫,rosbacher,rosbacher洛斯巴赫,[],0,[],0
+593,小綠,gtech,gtech小綠,[],0,[],0
+594,莫凡彼,movenpick,movenpick莫凡彼,['莫凡彼'],0,[],0
+595,石頭科技,roborock,roborock石頭科技,['石頭科技'],0,[],0
+596,微繫時光,romeo l.,romeo l.微繫時光,[],0,[],0
+597,純在,natural benefits,natural benefits純在,[],0,[],0
+598,魔女工廠,ma:nyo,ma:nyo魔女工廠,[],0,[],0
+599,得偉,dewalt,dewalt得偉,[],0,[],0
+600,娜法莉,navallihill,navallihill娜法莉,[],0,[],0
+601,創傑,ducky,ducky創傑,[],0,"[('lucky', 80)]",0
+602,薇霓肌本,vanicream,vanicream薇霓肌本,[],0,[],0
+603,植物物語,herb blend,herb blend植物物語,[],0,[],0
+604,科西塔,kucinta,kucinta科西塔,[],0,[],0
+605,貓食坊,cat food square,cat food square貓食坊,[],0,[],0
+606,富士電通,fujitek,fujitek富士電通,[],0,[],0
+607, 甦秘,su:m37,su:m37 甦秘,[],0,[],0
+608,脆樂芙,thrive,thrive脆樂芙,[],0,[],0
+609,芭樂雅,balea,balea芭樂雅,[],0,"[('alyea', 80)]",0
+610,好肌膚精華研究室,bffect,bffect好肌膚精華研究室,[],0,"[('bffect', 100)]",0
+611,歌薇,goldwell,goldwell歌薇,[],0,[],0
+612,藍寶,blaupunkt,blaupunkt藍寶,['藍寶'],0,[],0
+613,娜拉兒,naturactor,naturactor娜拉兒,[],0,[],0
+614,麥斯威爾,maxwell,maxwell麥斯威爾,[],0,[],0
+615,百匡,biocrown,biocrown百匡,[],0,[],0
+616,曙光,spring,spring曙光,[],0,[],0
+617,黛若詩琳,dazzleslim,dazzleslim黛若詩琳,[],0,[],0
+618,諾格那,logona,logona諾格那,[],0,[],0
+619,瑞奇,rich.c,rich.c瑞奇,[],0,[],0
+620,紐崔斯,nutrience,nutrience紐崔斯,[],0,[],0
+621,荒野饗宴,dance with wolf,dance with wolf荒野饗宴,[],0,[],0
+622,戴森,dyson,dyson戴森,[],0,"[('dyson', 100)]",0
+623,貝貝實驗室,babe,babe貝貝實驗室,['貝貝實驗室'],0,[],0
+624,柏萊富,blackwood,blackwood柏萊富,[],0,[],0
+625,媄莉,malie,malie媄莉,[],0,[],0
+626,森林擴香,amaze,amaze森林擴香,[],0,[],0
+627,恩傑,nzxt,nzxt恩傑,[],0,[],0
+628,聖克萊爾,stclare,stclare聖克萊爾,['st.clare聖克萊爾'],0,[],0
+629,奇拉朵,kiladoll,kiladoll奇拉朵,[],0,[],0
+630,澳潔蕬,ausganica,ausganica澳潔蕬,['澳潔蕬'],0,[],0
+631,新健綠,greenies,greenies新健綠,[],0,[],0
+632,鷹王,kingeagle,kingeagle鷹王,[],0,[],0
+633,伊莉亞,ellia,ellia伊莉亞,[],0,[],0
+634,蓓昂斯,byphasse,byphasse蓓昂斯,[],0,[],0
+635,家福,carrefour,carrefour家福,['家福'],0,[],0
+636,皺效奇蹟,strivectin,strivectin皺效奇蹟,[],0,"[('strivectin', 100)]",0
+637,艾迪美,acimed,acimed艾迪美,[],0,[],0
+638,維爾滋,wealtz,wealtz維爾滋,[],0,[],0
+639,羅密歐,romeo,romeo羅密歐,['羅密歐'],0,[],1
+640,哥倫比亞,columbia,columbia哥倫比亞,[],0,[],0
+641,邦比,pantop,pantop邦比,[],0,[],0
+642,草本莊園,krauterhof,krauterhof草本莊園,[],0,[],0
+643,得而康,dulgon,dulgon得而康,[],0,[],0
+644,達特聖克,dr.cink,dr.cink達特聖克,[],0,[],0
+645,黛珂,cosme decorte,cosme decorte黛珂,[],0,[],0
+646,雅芳,avon,avon雅芳,[],0,"[('avalon', 80), ('lavons', 80)]",0
+647,和成,hcg,hcg和成,['和成'],0,[],0
+648,小巴黎,debalets,debalets小巴黎,[],0,[],0
+649,品諾,pinoh,pinoh品諾,[],0,[],0
+650,莎特,satter,satter莎特,[],0,"[('skater', 83)]",0
+651,爵士貓吧,bbuy,bbuy爵士貓吧,['爵士貓吧'],0,[],0
+652,逸盛,esense,esense逸盛,[],0,[],1
+653,泡舒,paos,paos泡舒,[],0,[],0
+654,艾美特,airmate,airmate艾美特,['艾美特'],0,[],0
+655,博世,bosch,bosch博世,[],0,[],0
+656,直白,zhibai,zhibai直白,[],0,[],0
+657,匠香,yeastmaster,yeastmaster匠香,[],0,[],0
+658,香蕉船,banana boat,banana boat香蕉船,[],0,[],0
+659,啟蒙,gemon,gemon啟蒙,[],0,"[('demon', 80)]",0
+660,樂益活,meridlife,meridlife樂益活,[],0,[],0
+661,白雪,snow white,snow white白雪,['白雪'],0,[],0
+662,桑名,sanjirushi,sanjirushi桑名,[],0,[],0
+663,一家人,our family,our family一家人,['一家人'],0,[],0
+664,德妍思,dms,dms德妍思,['德妍思'],0,[],0
+665,韓國,lacto,lacto韓國,[],0,[],0
+666,亞歷桑納,arizona,arizona亞歷桑納,[],0,[],0
+667,自然牧場,natural farm,natural farm自然牧場,[],0,[],0
+668,挪威,mill,mill挪威,[],0,[],0
+669,貝卡,beka,beka貝卡,[],0,[],0
+670,愛麗思歐雅瑪,iris ohyama,iris ohyama愛麗思歐雅瑪,[],0,"[('iris ohyama', 100)]",1
+671,德國世家,dr. hauschka,dr. hauschka德國世家,[],0,[],0
+672,法國,najel,najel法國,[],0,"[('najel', 100)]",0
+673,山加利,sangaria,sangaria山加利,[],0,"[('sangaria', 100)]",0
+674,愛卜,apro,apro愛卜,[],0,"[('maqpro', 80)]",0
+675,歐客佬,oklao,oklao歐客佬,['歐客佬'],0,[],0
+676,聖碧濤,san benedetto,san benedetto聖碧濤,[],0,"[('san benedetto', 100)]",0
+677,卡樂比,calbee,calbee卡樂比,[],0,[],0
+678,倍科,beko,beko倍科,[],0,[],0
+679,森林小舖,fs,fs森林小舖,[],0,[],0
+680,囍碗,loveabowl,loveabowl囍碗,[],0,[],0
+681,霸虎,buff,buff霸虎,[],0,[],0
+682,德爾瑪,deerma,deerma德爾瑪,[],0,"[('derma', 91), ('dermal', 83)]",0
+683,福紅,fuchs,fuchs福紅,[],0,[],0
+684,錘子,blade,blade錘子,[],0,"[('bladez', 91)]",0
+685,御宴,goen,goen御宴,[],0,"[('golden', 80)]",0
+686,麥維樂,viola,viola麥維樂,[],0,"[('avila', 80)]",0
+687,吉尼斯,gennis,gennis吉尼斯,[],0,[],0
+688,德律風根,telefunken,telefunken德律風根,['德律風根'],0,[],0
+689,潘柔,panrose,panrose潘柔,[],0,[],0
+690,達樂,dale,dale達樂,[],0,[],0
+691,妮卡,nicka. k,nicka. k妮卡,[],0,"[('nicka.k', 100)]",0
+692,台酒生技,ttl,ttl台酒生技,['台酒生技'],0,[],0
+693,巴黎香氛,paris fragrance,paris fragrance巴黎香氛,['paris fashion巴黎香氛'],0,[],0
+694,貝比斯特,baby best,baby best貝比斯特,[],0,[],0
+695,第一化粧品,first cosmetics works de,first cosmetics works de第一化粧品,[],0,[],0
+696,瑰柏翠,crabtree,crabtree瑰柏翠,['瑰柏翠'],1,[],0
+697,原野優越,earthborn,earthborn原野優越,[],0,[],0
+698,美適,maxill,maxill美適,[],0,[],0
+699,倍力,blue bay,blue bay倍力,['bluebay倍力'],0,[],0
+700,威克邦尼,wicked bunny,wicked bunny威克邦尼,[],0,[],0
+701,+,natural10+,natural10++,[],0,"[('naturals', 82)]",0
+702,培寶,bab,bab培寶,['培寶'],0,[],0
+703,16,16 brand,16 brand16,[],0,[],0
+704,茶籽堂,cha tzu tang,cha tzu tang茶籽堂,[],0,[],0
+705,宇晨,denil milu,denil milu宇晨,[],0,[],0
+706,紐西蘭紅印,red seal,red seal紐西蘭紅印,[],0,[],0
+707,倍麗兒,perioe,perioe倍麗兒,['倍麗兒'],0,[],0
+708,喜馬拉雅,himalaya,himalaya喜馬拉雅,[],0,[],0
+709,田倉,takura,takura田倉,[],0,[],0
+710,義大利,giaretti,giaretti義大利,[],0,[],1
+711,烘焙客,oven baked,oven baked烘焙客,[],0,"[('oven-baked', 100)]",0
+712,卡蜜兒,kamill,kamill卡蜜兒,[],0,[],0
+713,凱琳,calimba,calimba凱琳,[],0,[],0
+714,麗柏有機,neobio,neobio麗柏有機,[],0,[],0
+715,阿基姆,agim,agim阿基姆,[],0,[],0
+716,奧碧虹,albion,albion奧碧虹,[],0,[],0
+717,淨七代,svg,svg淨七代,[],0,[],0
+718,家居,hk,hk家居,[],0,[],0
+719,囍瑞,bioes,bioes囍瑞,[],0,"[('biore', 80)]",0
+720,賽睿,steelseries,steelseries賽睿,[],0,[],0
+721,采緹,tsae ti,tsae ti采緹,['采緹'],0,[],0
+722,絲帕,spa,spa絲帕,[],0,[],0
+723,超躍,hyperr,hyperr超躍,[],0,"[('hyperx', 83)]",0
+724,創離子,create ion,create ion創離子,[],0,[],0
+725,紀梵希,givenchy,givenchy紀梵希,[],0,[],0
+726,哈格,hug,hug哈格,[],0,[],0
+727,舒妃,sofei,sofei舒妃,[],0,[],0
+728,美膚娜娜,frusirnana,frusirnana美膚娜娜,[],0,[],0
+729,掠食者,sniper ,sniper 掠食者,[],0,[],0
+730,聰明貓乾糧,iq cat,iq cat聰明貓乾糧,[],0,[],0
+731,葵緹亞,kracie,kracie葵緹亞,[],0,[],0
+732,彤妍,unitec,unitec彤妍,[],0,[],0
+733,魔法天空,glamour sky,glamour sky魔法天空,[],0,[],0
+734,賽玫特,somerset,somerset賽玫特,[],0,[],0
+735,貓頭鷹,noctua,noctua貓頭鷹,[],0,[],0
+736,德京,deukonig,deukonig德京,[],0,[],0
+737,美奇絲,matrix,matrix美奇絲,[],0,[],0
+738,親密貓,mydearcat,mydearcat親密貓,[],0,[],0
+739,哈嘍,24h,24h哈嘍,[],0,[],0
+740,沛麗膚,real barrier,real barrier沛麗膚,[],0,"[('barrier repair', 85)]",0
+741,小適,white,white小適,[],0,[],0
+742,極上活妍,grace one,grace one極上活妍,[],0,[],0
+743,紐奇肌,niou amaze,niou amaze紐奇肌,[],0,[],0
+744,貓樂適,catidea,catidea貓樂適,[],0,[],0
+745,韓汝,hanru,hanru韓汝,[],0,"[('haru', 89)]",0
+746,黑鮪,toro,toro黑鮪,[],0,[],0
+747,旨味杯麵,acecook,acecook旨味杯麵,[],0,[],0
+748,居家,g+,g+居家,[],0,[],1
+749,草本真情,herbally,herbally草本真情,[],0,[],0
+750,袋鼠,kangol,kangol袋鼠,[],0,"[('kangol', 100)]",0
+751,鐵鎚牌,a&h,a&h鐵鎚牌,[],0,[],0
+752,牧田,makita,makita牧田,[],0,[],0
+753,松井,songen,songen松井,['松井'],0,[],0
+754,晶燉,kingston,kingston晶燉,[],0,[],0
+755,葦柏納,webner,webner葦柏納,[],0,[],0
+756,妮兒,neocell,neocell妮兒,[],0,[],0
+757,雞仔牌,st,st雞仔牌,[],0,"[('stb', 80)]",0
+758,美博士,dr.may,dr.may美博士,[],0,[],0
+759,帕爾氏,wild ferns,wild ferns帕爾氏,[],0,[],0
+760,銀欣,silverstone,silverstone銀欣,[],0,[],0
+761,研達,yendar,yendar研達,[],0,[],0
+762,蛋黃哥,gudetama,gudetama蛋黃哥,[],0,[],0
+763,富力森,furimori,furimori富力森,['富力森'],0,[],0
+764,皇家特莉,tilley,tilley皇家特莉,[],0,"[('illy', 80)]",1
+765,摩堤,multee,multee摩堤,[],0,[],0
+766,聯力,lian li,lian li聯力,[],0,[],0
+767,普德,buder,buder普德,[],0,[],0
+768,雀巢茶品,nestea,nestea雀巢茶品,[],0,[],0
+769,山鬼怪,sandokkaebi,sandokkaebi山鬼怪,[],0,[],0
+770,優柏,eupa,eupa優柏,['優柏'],0,"[('eupa', 100)]",0
+771,皇冠,nutra tech,nutra tech皇冠,['皇冠'],0,[],0
+772,寶絲汀,psk,psk寶絲汀,[],0,[],1
+773,倍力,bluebay,bluebay倍力,[],1,[],0
+774,大倉美記,okura biki,okura biki大倉美記,[],0,[],0
+775,唯白,vd,vd唯白,[],0,[],0
+776,森朵恩泉,jonzac,jonzac森朵恩泉,[],0,"[('jonzac', 100)]",0
+777,沛綠雅,perrier,perrier沛綠雅,['沛綠雅'],0,[],0
+778,愛在普羅旺斯,c.d.p,c.d.p愛在普羅旺斯,[],0,[],0
+779,山多力,sdl,sdl山多力,['山多力'],0,"[('sl', 80)]",0
+780,上豪,sunhow,sunhow上豪,['上豪'],0,[],0
+781,天然密碼,nurturepro,nurturepro天然密碼,[],0,[],0
+782,綠手指,green finger,green finger綠手指,[],0,"[('green finger', 100)]",0
+783,露蜜,lumina,lumina露蜜,[],0,"[('luna', 80)]",0
+784,咖啡,jc,jc咖啡,[],0,"[('jvc', 80)]",0
+785,卡詩,kerastase,kerastase卡詩,[],0,[],0
+786,藝群,dr.,dr.藝群,[],0,[],1
+787,安炫曜,curecare,curecare安炫曜,[],0,[],0
+788,山水,sansui,sansui山水,['山水'],0,[],0
+789,永信,hac,hac永信,['永信'],0,[],0
+790,神奇爺爺,grandpa’s soap,grandpa’s soap神奇爺爺,[],0,[],0
+791,潔芬,jie fen,jie fen潔芬,['潔芬'],0,[],0
+792,貝醫生,dr.bei,dr.bei貝醫生,[],0,[],0
+793,澳克騎士,ivory coat,ivory coat澳克騎士,[],0,[],0
+794,森下仁丹,ravis,ravis森下仁丹,[],0,[],0
+795,黎得芳,la defonse,la defonse黎得芳,[],0,[],0
+796,艾諾碧,iope,iope艾諾碧,[],0,[],0
+797,品工,pingo,pingo品工,[],0,"[('ringo', 80)]",0
+798,林克博士,dr.link,dr.link林克博士,[],0,[],0
+799,拉美拉,la mei la,la mei la拉美拉,['lameila拉美拉'],0,[],0
+800,藤蔓擴香氛,fancy,fancy藤蔓擴香氛,[],0,"[('fancl', 80)]",0
+801,魔力喵,mjamjam,mjamjam魔力喵,[],0,[],0
+802,魏大夫,vf,vf魏大夫,[],0,[],0
+803,大象,daesang,daesang大象,[],0,[],0
+804,毛孩快跑,running pets,running pets毛孩快跑,[],0,[],0
+805,澳洲,nd,nd澳洲,[],0,[],0
+806,愛的獎勵,love,love愛的獎勵,[],0,"[('clover', 80), ('relove', 80)]",0
+807,美泰克,maytag,maytag美泰克,[],0,[],0
+808,你好,hello,hello你好,[],0,[],0
+809,鴻宇,hongyew,hongyew鴻宇,[],0,[],0
+810, 優雅美體,uy28,uy28 優雅美體,[],0,[],0
+811,維他奶,vitasoy,vitasoy維他奶,[],0,[],0
+812,狄寶,deerdogs,deerdogs狄寶,[],0,[],0
+813,贏,in-plus,in-plus贏,[],0,[],0
+814,伊法,evolve,evolve伊法,[],0,[],0
+815,無限肌緻,infinity,infinity無限肌緻,[],0,[],0
+816,固特異,goodyear,goodyear固特異,[],0,[],0
+817,愛伽絲,ajuste,ajuste愛伽絲,[],0,[],0
+818,芮芙茹,reveur,reveur芮芙茹,[],0,[],0
+819,賽先生科學,mr.sci,mr.sci賽先生科學,[],0,[],0
+820,生態綠,okogreen,okogreen生態綠,['生態綠'],0,[],0
+821,歐萊德,o'right,o'right歐萊德,['歐萊德'],1,[],0
+822,艾霏,efficat,efficat艾霏,[],0,[],0
+823,愛若雅,alloya,alloya愛若雅,[],0,[],0
+824,菲特研,first lab,first lab菲特研,[],0,[],0
+825,香草魔法,wish bone,wish bone香草魔法,[],0,[],0
+826,艾肯,aiken,aiken艾肯,['艾肯'],0,"[('aiken', 100), ('haken', 80)]",0
+827,時間寵愛,chrono affection,chrono affection時間寵愛,[],0,[],0
+828,百年特莉,tilley,tilley百年特莉,[],0,"[('illy', 80)]",1
+829,艾思柏,expert,expert艾思柏,[],0,[],0
+830,澳思萊,aus life,aus life澳思萊,[],0,[],0
+831,海洋之星,fish4cats,fish4cats海洋之星,[],0,[],0
+832,班樂尼,ballarini,ballarini班樂尼,[],0,[],0
+833,歐卡尼,ocanis,ocanis歐卡尼,[],0,[],0
+834,宜珂,ecover,ecover宜珂,[],0,"[('ecover', 100), ('clover', 83)]",0
+835,利民,thermalright,thermalright利民,[],0,[],0
+836,光妍,cosplus,cosplus光妍,[],0,[],0
+837,德瑪,dermal,dermal德瑪,[],0,"[('dermal', 100), ('derma', 91), ('dermacol', 86)]",0
+838,仙格麗塔,segreta,segreta仙格麗塔,[],0,[],0
+839,璞莉可,boutique,boutique璞莉可,['璞莉可'],0,[],0
+840,蜜葳特,melvita,melvita蜜葳特,[],0,[],0
+841,纖嚼,happi,happi纖嚼,[],0,[],0
+842,羅素,russell hobbs,russell hobbs羅素,[],0,[],0
+843,愛斯德瑪,loveisderma,loveisderma愛斯德瑪,[],0,[],0
+844,蕾娜塔,renata,renata蕾娜塔,[],0,[],0
+845,錸德,ridata,ridata錸德,[],0,[],0
+846,威傑士,wajass,wajass威傑士,[],0,[],0
+847,妙奇,moggy,moggy妙奇,[],0,[],0
+848,艾詩緹,astalift,astalift艾詩緹,[],0,[],0
+849,達特周,dr.jou,dr.jou達特周,[],0,[],0
+850,東邦,utamaro,utamaro東邦,['東邦'],0,[],0
+851,氧潤,arin,arin氧潤,[],0,"[('garmin', 80), ('jardin', 80), ('arlink', 80), ('farlin', 80)]",0
+852,貝玲妃,benefit,benefit貝玲妃,[],0,[],1
+853,圖米其,tu meke friend,tu meke friend圖米其,[],0,[],0
+854,立明,lemin,lemin立明,[],0,[],0
+855,微軟,microsoft,microsoft微軟,[],0,[],0
+856,喵愛餡,temptations,temptations喵愛餡,[],0,[],0
+857,‘,dr‘s formula,dr‘s formula‘,[],0,[],0
+858,安娜美廚,annamaet,annamaet安娜美廚,[],0,[],0
+859,台灣山下,yamashita,yamashita台灣山下,[],0,[],0
+860,美國,oster,oster美國,[],0,"[('oster', 100)]",0
+861,山司伯特,san sports,san sports山司伯特,[],0,[],0
+862,山崎,yamasaki,yamasaki山崎,['山崎'],0,"[('yamaki', 86)]",0
+863,四季,seasons,seasons四季,['四季'],0,[],0
+864,歐緹麗,caudalie,caudalie歐緹麗,[],0,[],0
+865,小澤,kozawa,kozawa小澤,['小澤'],0,[],0
+866,北鼎,buydeem,buydeem北鼎,[],0,[],0
+867,維詩彩妝,acts,acts維詩彩妝,[],0,[],0
+868,伊瑪,imarflex,imarflex伊瑪,[],0,[],0
+869,酷碼,coolermaster,coolermaster酷碼,[],0,"[('cooler master', 96)]",0
+870,英倫薇朵,h&w,h&w英倫薇朵,[],0,"[('h&w', 100)]",0
+871,鑽美姬,s+diamond,s+diamond鑽美姬,[],0,[],0
+872,黑鷹,blackhawk,blackhawk黑鷹,[],0,[],0
+873,首華,sowa,sowa首華,[],0,[],0
+874,美生貝樂,maison belle,maison belle美生貝樂,[],0,[],0
+875,寶工,pro'skit,pro'skit寶工,[],0,[],0
+876,星巴克,starbucks,starbucks星巴克,['星巴克'],0,"[('starbucks', 100)]",0
+877,日象,zushiang,zushiang日象,['日象'],0,[],0
+878,德國百妮,bioneo,bioneo德國百妮,['德國百妮'],0,"[('bone', 80)]",0
+879,台灣通用,g.must,g.must台灣通用,[],0,[],0
+880,德國貓王,venandi animal,venandi animal德國貓王,[],0,[],0
+881,角落生物,sumikko gurashi,sumikko gurashi角落生物,[],0,[],0
+882,葛林菲,green fish,green fish葛林菲,[],0,[],0
+883,寶拉美甲,paula's nail,paula's nail寶拉美甲,[],0,[],0
+884,德國卡爾,carl schmidt sohn,carl schmidt sohn德國卡爾,[],0,[],0
+885,寵物甜心,pet sweet,pet sweet寵物甜心,[],0,[],0
+886,快譯通,abee,abee快譯通,[],0,[],0
+887,愛酪麗,avoderm,avoderm愛酪麗,[],0,[],0
+888,肯夢,aveda,aveda肯夢,[],0,"[('aveda', 100)]",0
+889,得科羅勒,de cecco,de cecco得科羅勒,[],0,[],0
+890,亞曼尼,armani,armani亞曼尼,[],1,[],0
+891,寵愛物語,pet story,pet story寵愛物語,['寵愛物語'],0,[],0
+892,德國珊諾,sanosan,sanosan德國珊諾,[],0,[],0
+893,驕傲貓,cat glory,cat glory驕傲貓,[],0,[],0
+894,萊法耶,rene furterer,rene furterer萊法耶,[],0,[],0
+895,德晉,der jinn,der jinn德晉,[],0,[],0
+896,帕米爾,parmir,parmir帕米爾,[],0,[],0
+897,樂固特,lacalut,lacalut樂固特,[],0,[],0
+898,安晴,anqueen,anqueen安晴,[],0,[],0
+899,美美妍,ps,ps美美妍,[],0,[],0
+900,信元發育寶,singen,singen信元發育寶,[],0,[],0
+901,魔法村,pet village,pet village魔法村,[],0,"[('pet village', 100)]",0
+902,伊的,hito,hito伊的,[],0,"[('hito', 100)]",0
+903,賽斯黛瑪,sesderma,sesderma賽斯黛瑪,[],0,[],0
+904,家族石鹼,miyoshi,miyoshi家族石鹼,[],0,"[('miyoshi', 100)]",1
+905,璞草園,grange,grange璞草園,['璞草園'],0,"[('ange', 80)]",0
+906,自然小貓,natural kitty,natural kitty自然小貓,[],0,[],0
+907,衛采,eisai,eisai衛采,[],0,[],0
+908,賽嘉,seago,seago賽嘉,[],0,[],0
+909,歐麗絲,oul'isi,oul'isi歐麗絲,[],0,[],0
+910,無窮花,mkh,mkh無窮花,[],0,[],0
+911,雅娜蒂,amity,amity雅娜蒂,[],0,[],0
+912,莉婕,liese,liese莉婕,[],0,[],0
+913, 盛燦男士,wellness+,wellness+ 盛燦男士,[],0,"[('wellness', 100)]",0
+914,韓秀姬,misshan,misshan韓秀姬,[],0,"[('missha', 92)]",0
+915,普瑞迪娜,primo ordine,primo ordine普瑞迪娜,[],0,[],0
+916,樂絲,loshi,loshi樂絲,[],0,"[('loshi', 100)]",0
+917,夏緹,ciate,ciate夏緹,[],0,[],0
+918,捷視,nugens,nugens捷視,[],0,[],0
+919,植物者,agricola,agricola植物者,[],0,[],0
+920,德逸,dr.oko,dr.oko德逸,[],0,[],0
+921,海味,hiway,hiway海味,[],0,[],0
+922,派翠,pezri,pezri派翠,[],0,[],0
+923,肯葳,keune,keune肯葳,[],0,[],0
+924,益暢優,yourla,yourla益暢優,[],0,[],0
+925,科克蘭,kirkland,kirkland科克蘭,['kirkland signature科克蘭'],0,[],0
+926,嘉儀,heller,heller嘉儀,[],0,[],0
+927,黑設,black gears,black gears黑設,[],0,[],0
+928,犀牛,rhino,rhino犀牛,[],0,"[('ringo', 80)]",0
+929,烏麗絲,mavros,mavros烏麗絲,[],0,"[('maro', 80)]",0
+930,斯儂恩,throne,throne斯儂恩,[],0,[],0
+931,蕊琦芙,retreev,retreev蕊琦芙,[],0,[],0
+932,波菲特,purrfact,purrfact波菲特,[],0,[],0
+933,必美優,pmu,pmu必美優,[],0,[],0
+934,肯辛通,kensington,kensington肯辛通,[],0,[],0
+935,葵柏兒,quaplar,quaplar葵柏兒,[],0,[],0
+936,丰靡美姬,esprique precious,esprique precious丰靡美姬,[],0,[],0
+937,悠貝莉,youberry,youberry悠貝莉,[],0,[],0
+938,舒巴,soopa,soopa舒巴,[],0,[],0
+939,日光,nikko,nikko日光,[],0,[],0
+940,咖啡王,ko,ko咖啡王,[],0,[],0
+941,寶迪,berndes,berndes寶迪,[],0,[],0
+942,雷迪兒,radius,radius雷迪兒,[],0,[],0
+943,樂米,larmi,larmi樂米,[],0,[],0
+944,露遊,treewalker,treewalker露遊,[],0,"[('treewalker', 100)]",0
+945,穀盛,kokumori,kokumori穀盛,[],0,[],0
+946,旅行者,traveler,traveler旅行者,[],0,[],0
+947,鐮刀,scythe,scythe鐮刀,[],0,[],0
+948,好吉康,wellcome,wellcome好吉康,[],0,[],0
+949,巴黎歐樹,nuxe,nuxe巴黎歐樹,[],0,[],1
+950,數位新貴,digiking,digiking數位新貴,[],0,[],0
+951,蘿莉絲塔,rorista,rorista蘿莉絲塔,[],0,[],0
+952,護妍天使,dermaangel,dermaangel護妍天使,[],0,[],0
+953,品夏,pershow,pershow品夏,[],0,[],0
+954,柳屋,yanagiya,yanagiya柳屋,[],0,[],0
+955,朵璽,dr.douxi,dr.douxi朵璽,[],0,[],0
+956,奧圖,aatu,aatu奧圖,[],0,[],0
+957,默契,mumchit,mumchit默契,[],0,"[('mumchit', 100)]",0
+958,蘭吉兒,legere,legere蘭吉兒,"[""l'egere蘭吉兒""]",0,[],0
+959,諾帝亞,zodiac,zodiac諾帝亞,[],0,[],0
+960,斑尼菲,benefit,benefit斑尼菲,[],0,[],1
+961,史耐輝,smith+nephew,smith+nephew史耐輝,[],0,[],0
+962,巴黎香氛,paris fashion,paris fashion巴黎香氛,[],1,"[('star fashion', 80)]",0
+963,詩波蜜柔,super mild,super mild詩波蜜柔,[],0,"[('super mild', 100)]",0
+964,吉維氏,kiwi safe,kiwi safe吉維氏,[],0,[],0
+965,心僕鮮食],simple sense],simple sense]心僕鮮食],[],0,[],0
+966,絲凱露,angfa scalp-d beaute angfad,angfa scalp-d beaute angfad絲凱露,[],1,[],0
+967,自然之綠,naturaverde,naturaverde自然之綠,['自然之綠'],0,[],0
+968,斯博康,supercoat,supercoat斯博康,[],0,[],0
+969,光之瀅,touch in sol,touch in sol光之瀅,[],0,[],0
+970,蕾蒂金,ladykin,ladykin蕾蒂金,[],0,[],0
+971,苾菲絲,biofuture,biofuture苾菲絲,[],0,[],0
+972,羅蜜歐,romel l,romel l羅蜜歐,[],0,[],0
+973,蕾珂詩,la casta,la casta蕾珂詩,[],0,[],0
+974,鐵修羅,tesoro,tesoro鐵修羅,[],0,[],0
+975,美寧,mistral,mistral美寧,['美寧'],0,[],0
+976,歐思佛,dr.,dr.歐思佛,[],0,[],1
+977,全家安,famiclean,famiclean全家安,[],0,[],0
+978,鋼鐵人,infothink,infothink鋼鐵人,[],0,"[('infothink', 100)]",0
+979,歐肌膚,o’keeffe’s,o’keeffe’s歐肌膚,[],1,[],0
+980,香鼻子,les nez,les nez香鼻子,[],0,"[('les nez', 100)]",0
+981,瑞士之鑰,skincode,skincode瑞士之鑰,[],0,[],0
+982,純戀,pure,pure純戀,[],0,"[('pure', 100), ('pureal', 80)]",1
+983,嚼嚼,juejue,juejue嚼嚼,[],0,[],0
+984,怡森氏,inessence,inessence怡森氏,[],0,[],0
+985,比利瑪格,billy+margot,billy+margot比利瑪格,[],0,[],0
+986,凱蒂娃娃,cathy doll,cathy doll凱蒂娃娃,[],0,[],0
+987,創禾,soka,soka創禾,[],0,[],0
+988,波力,poli,poli波力,['波力'],0,[],0
+989,植萃家,leho,leho植萃家,[],0,[],0
+990,朵萊爾,duplair,duplair朵萊爾,[],0,[],0
+991,維多利亞的秘密,victoria's secret,victoria's secret維多利亞的秘密,['維多利亞的秘密'],0,[],0
+992,樂健飛,love can fly,love can fly樂健飛,[],0,[],0
+993,捷元,genuine,genuine捷元,[],0,[],0
+994,摩多比,mdobi,mdobi摩多比,[],0,[],0
+995,席瑞思,ceres,ceres席瑞思,[],0,"[('crest', 80)]",0
+996,康茵,carein,carein康茵,[],0,[],0
+997,美加獅,mad catz,mad catz美加獅,[],0,[],0
+998,肌膚哲理,philosophy,philosophy肌膚哲理,[],0,[],0
+999,咬咬猴,matchstick monkey,matchstick monkey咬咬猴,[],0,[],0
+1000,風麋露,cec,cec風麋露,[],0,[],0
+1001,肯尼士,kennex,kennex肯尼士,['肯尼士'],0,"[('enne', 80)]",0
+1002,皇家玫瑰,royce,royce皇家玫瑰,[],0,[],0
+1003,瑞威,real power,real power瑞威,[],0,[],0
+1004,瑪莎曼,j-lek,j-lek瑪莎曼,[],0,[],0
+1005,百岳  ,100mountain,100mountain百岳,[],0,[],0
+1006,植萃,herb,herb植萃,[],0,[],0
+1007,飛狼,jack wolfskin,jack wolfskin飛狼,[],0,[],0
+1008,海陸饗宴,taste of the wild,taste of the wild海陸饗宴,[],0,[],0
+1009,特碧潤,topicrem,topicrem特碧潤,[],0,[],0
+1010,奇哥,chic a bon,chic a bon奇哥,['奇哥'],0,[],0
+1011,金美滿,kitchenwell,kitchenwell金美滿,[],0,[],0
+1012,玉之肌,miyoshi,miyoshi玉之肌,[],0,"[('miyoshi', 100)]",1
+1013,愛普士,applaws,applaws愛普士,[],0,[],0
+1014,富力鮮,frisian,frisian富力鮮,[],0,[],0
+1015,沐予,conoha,conoha沐予,[],0,[],0
+1016,水美媒,oguma,oguma水美媒,[],0,"[('osuma', 80)]",0
+1017,維克,virbac,virbac維克,[],0,[],0
+1018,飛樂,philo,philo飛樂,[],0,[],0
+1019,奈良彌亞,nairia,nairia奈良彌亞,[],0,[],0
+1020,佳達隆,gateron,gateron佳達隆,[],0,[],0
+1021,鮮呼吸,fresh breath,fresh breath鮮呼吸,[],0,[],0
+1022,戀愛女神,venus amour,venus amour戀愛女神,[],0,[],0
+1023,比可思,pixy,pixy比可思,[],0,[],0
+1024,雙揚,i-gotu,i-gotu雙揚,[],0,[],0
+1025,艾洛,aroh,aroh艾洛,[],0,[],0
+1026,萃康髮,tricovel,tricovel萃康髮,[],0,[],0
+1027,纖體寶貝,slimbaby,slimbaby纖體寶貝,[],0,[],0
+1028,宇堂,glitter,glitter宇堂,[],0,"[('glinter', 86)]",0
+1029,絲凱露,angfa,angfa絲凱露,['angfa scalp-d beaute angfad絲凱露'],0,"[('angfa', 100)]",0
+1030,怡思丁,isdin,isdin怡思丁,[],0,[],0
+1031,,d-up,d-up,[],0,"[('d-up', 100)]",0
+1032,阿曼達,animonda,animonda阿曼達,[],0,[],0
+1033,恩樹,nsou,nsou恩樹,[],0,[],0
+1034,保加利亞玫瑰,bulgarian rose,bulgarian rose保加利亞玫瑰,[],0,[],0
+1035,植靠淨,spotless,spotless植靠淨,[],0,[],0
+1036,共饗食堂,sharing bistro,sharing bistro共饗食堂,[],0,[],0
+1037,伊思,it's skin,it's skin伊思,[],0,"[(""it's skin"", 100)]",0
+1038,野宴,livin wild,livin wild野宴,['livin’ wild野宴'],0,[],0
+1039,鴻果,hongo,hongo鴻果,[],0,[],0
+1040,唯有機,oui organic,oui organic唯有機,[],0,[],0
+1041,芝研,azzeen,azzeen芝研,[],0,[],0
+1042,伊聖詩,cosmescents,cosmescents伊聖詩,['伊聖詩'],1,[],0
+1043,德國,augustinus baderab,augustinus baderab德國,[],0,[],0
+1044,露米,lumikenka,lumikenka露米,[],0,[],0
+1045,樂靈,lalil,lalil樂靈,[],0,[],0
+1046,朗德林,laundrin,laundrin朗德林,[],0,[],0
+1047,魔蠍,marvo,marvo魔蠍,[],0,"[('maro', 89)]",0
+1048,聯碩,lenso,lenso聯碩,['聯碩'],0,[],0
+1049,瑪珂蕾貝,macchia label,macchia label瑪珂蕾貝,[],0,[],0
+1050,淨極勁,gigijing,gigijing淨極勁,[],0,[],0
+1051,野宴,livin’ wild,livin’ wild野宴,[],1,[],0
+1052,美美地墊,maymay,maymay美美地墊,[],0,"[('mama', 80)]",0
+1053,文鎧,wintek,wintek文鎧,[],0,[],0
+1054,義士大廚,almo,almo義士大廚,[],0,[],0
+1055,強生,chanson,chanson強生,[],0,[],0
+1056,維維絲,viviscal,viviscal維維絲,[],0,[],0
+1057,阿卡菲,agafia,agafia阿卡菲,[],0,[],0
+1058,芙絲,voss,voss芙絲,['芙絲'],0,[],0
+1059,美菱,maylink,maylink美菱,[],0,[],0
+1060,陳怡安手工皂,annchen,annchen陳怡安手工皂,[],0,[],0
+1061,科隆,kolln,kolln科隆,[],0,"[('skoll', 80)]",0
+1062,生活+,fl,fl生活+,['生活'],0,[],0
+1063,凱綺萃,kgcheck,kgcheck凱綺萃,[],0,[],0
+1064,旺兒,blackdog,blackdog旺兒,[],0,[],0
+1065,銀河莊園,la voie lactee,la voie lactee銀河莊園,[],0,[],0
+1066,詩蘭朵,serlando,serlando詩蘭朵,[],0,[],0
+1067,芯絲翠,neostrata,neostrata芯絲翠,[],0,[],0
+1068,小紅帽咖啡,julius meinl,julius meinl小紅帽咖啡,[],0,[],0
+1069,凡諦斯,vintage,vintage凡諦斯,[],0,[],0
+1070,雅各布,jacobs,jacobs雅各布,[],0,[],0
+1071,幸福貓,snappy tom,snappy tom幸福貓,[],0,[],0
+1072,奧護佳,allgood,allgood奧護佳,[],0,[],0
+1073,成功,success,success成功,[],0,[],0
+1074,猛特斯,minties,minties猛特斯,[],0,[],0
+1075,德記洋行,tait tea,tait tea德記洋行,[],0,[],0
+1076,赫蓮娜,hr,hr赫蓮娜,[],1,"[('ghr', 80)]",0
+1077,珂莉帕妃,claypathy,claypathy珂莉帕妃,[],0,[],0
+1078,茉娜姿,moraz,moraz茉娜姿,['茉娜姿'],0,[],0
+1079,伊所愛,isoi,isoi伊所愛,[],0,[],0
+1080,泰浦樂,toppuror,toppuror泰浦樂,[],0,[],0
+1081,摩斯漢堡,mos,mos摩斯漢堡,[],0,[],0
+1082,優麗雅,uriage,uriage優麗雅,[],0,[],0
+1083,慕堤,mutti,mutti慕堤,[],0,[],0
+1084,愛華,aiwa,aiwa愛華,['愛華'],0,[],0
+1085,婕可詩,jergens,jergens婕可詩,[],0,[],0
+1086,蕾莉歐,l’erbolario,l’erbolario蕾莉歐,['蕾莉歐'],1,[],0
+1087,優麗美人,ud,ud優麗美人,[],0,[],0
+1088,初時肌,zephyrine,zephyrine初時肌,[],0,[],0
+1089,貝臣,bubchen,bubchen貝臣,[],0,[],0
+1090,德萊維,dellware,dellware德萊維,[],0,[],0
+1091,植享家,bonnie house,bonnie house植享家,['植享家'],0,[],0
+1092,全球寵物,global pets,global pets全球寵物,['全球寵物'],0,[],0
+1093,香氛之家,aroma of home,aroma of home香氛之家,[],0,[],0
+1094,輕鬆美膚,ezskin,ezskin輕鬆美膚,[],0,[],0
+1095,鵝媽媽,mother goose,mother goose鵝媽媽,[],0,[],0
+1096,凱茲,catz,catz凱茲,[],0,[],0
+1097,喜躍,party mix,party mix喜躍,[],0,[],0
+1098,歐格妮亞,organia,organia歐格妮亞,[],0,[],0
+1099,詩夢絲,smooth,smooth詩夢絲,[],0,[],0
+1100,柯諾普卡,dr.konopkas,dr.konopkas柯諾普卡,[],0,"[('dr.konopka’s', 96)]",0
+1101,迪士尼,disney,disney迪士尼,[],0,"[('disney', 100)]",0
+1102,漢美馳,hamilton beach,hamilton beach漢美馳,[],0,[],0
+1103,珈樂堤,giaretti,giaretti珈樂堤,[],0,[],1
+1104,卡滋,kazi,kazi卡滋,[],0,[],0
+1105,奇異廚房,kiwi kitchens,kiwi kitchens奇異廚房,[],0,[],0
+1106,優派,viewsonic,viewsonic優派,[],0,[],0
+1107,康沛特,content pets,content pets康沛特,[],0,[],0
+1108,惡靈戰警,s-etas,s-etas惡靈戰警,[],0,[],0
+1109,歐肌膚,o'keeffe's,o'keeffe's歐肌膚,['o’keeffe’s歐肌膚'],0,[],0
+1110,@手護適,hands@work,hands@work@手護適,[],0,[],0
+1111,喵~噢,meow,meow喵~噢,[],0,"[('menow', 89)]",0
+1112,純淨之心,pure heart,pure heart純淨之心,[],0,[],0
+1113,曜越,luna,luna曜越,[],0,"[('luna', 100)]",0
+1114,大森,una,una大森,[],0,"[('luna', 86)]",0
+1115,梅亞奶奶,grandma mae's,grandma mae's梅亞奶奶,[],0,[],0
+1116,李寧,li-ning,li-ning李寧,[],0,[],0
+1117,雷斯特,lexking,lexking雷斯特,[],0,[],0
+1118,愛多康,atopalm,atopalm愛多康,[],0,[],0
+1119,唯美味,weruva,weruva唯美味,[],0,[],0
+1120,蓓蓓珂娜,benecos,benecos蓓蓓珂娜,[],0,[],0
+1121,幼獅,youth,youth幼獅,[],0,[],0
+1122,酷涼,esense,esense酷涼,[],0,[],1
+1123,樹予,saeve,saeve樹予,[],0,[],0
+1124,普樂,polar,polar普樂,[],0,"[('pola', 89)]",0
+1125,詩芙儂,sofnon,sofnon詩芙儂,[],0,[],0
+1126,唯娜露,vernal,vernal唯娜露,[],0,[],0
+1127,愛戀膜法,love more,love more愛戀膜法,[],0,[],0
+1128,朵蔓朵蓮,dormindorcin,dormindorcin朵蔓朵蓮,['朵蔓朵蓮'],0,[],0
+1129,沐時光,moussenature,moussenature沐時光,[],0,[],0
+1130,星記,starmark,starmark星記,[],0,[],0
+1131,柏詩克萊,personal care,personal care柏詩克萊,[],0,[],0
+1132,波瑞歐,boreal,boreal波瑞歐,[],0,[],0
+1133,麥蘆卡,wedderspoon,wedderspoon麥蘆卡,[],0,[],0
+1134,歐奇斯,organix,organix歐奇斯,[],0,[],0
+1135,歐王,ouwang,ouwang歐王,[],0,[],0
+1136,喬山,johnson,johnson喬山,[],0,[],0
+1137,超越巔峰,absolute holistic,absolute holistic超越巔峰,[],0,[],0
+1138,瑞威,real nature,real nature瑞威,[],0,"[('nature tree', 82)]",0
+1139,和光堂,wakodo,wakodo和光堂,[],0,[],0
+1140,安伯特,anbort,anbort安伯特,[],0,[],0
+1141,薰衣草森林,lavender cottage,lavender cottage薰衣草森林,['薰衣草森林'],0,[],0
+1142,御膳房,ushine farm,ushine farm御膳房,[],0,[],0
+1143,就是家,j home,j home就是家,[],0,[],0
+1144,愛芙蓉,everose,everose愛芙蓉,[],0,[],0
+1145,愛購它,i gota,i gota愛購它,[],0,[],0
+1146,馥蕾詩,fresh,fresh馥蕾詩,[],0,"[('fresa', 80)]",0
+1147,康尼菲,knf,knf康尼菲,[],0,[],0
+1148,妲己佳人,darlin,darlin妲己佳人,[],0,"[('darling', 92), ('arlink', 83), ('farlin', 83)]",0
+1149,拉美拉,lameila,lameila拉美拉,[],1,[],0
+1150,歐姬兒,ozio,ozio歐姬兒,[],0,[],0
+1151,須眉,smate,smate須眉,[],0,[],0
+1152,朵米諾,qteighteen,qteighteen朵米諾,[],0,[],0
+1153,奧莉芙的橄欖,olivos,olivos奧莉芙的橄欖,[],0,[],0
+1154,多比,dobi,dobi多比,[],0,[],0
+1155,蘿丹緹,lothantique,lothantique蘿丹緹,[],0,[],0
+1156,英格朗,ingram's,ingram's英格朗,[],0,[],0
+1157,琍睫,lijay,lijay琍睫,[],0,[],0
+1158,速利高,solid gold,solid gold速利高,[],0,[],0
+1159,俏樂斯,churacos,churacos俏樂斯,[],0,[],0
+1160,芙樂莉,fleurient,fleurient芙樂莉,[],0,[],0
+1161,曼龍,mloong,mloong曼龍,[],0,[],0
+1162,儷康絲,nioxin,nioxin儷康絲,[],0,[],0
+1163,城野醫生,dr.ci:labo,dr.ci:labo城野醫生,[],0,[],0
+1164,丹霓珂,dr. organic,dr. organic丹霓珂,[],0,[],0
+1165,大眼蛙,dooby,dooby大眼蛙,[],0,[],0
+1166,優綺麗,u jelly,u jelly優綺麗,[],0,[],0
+1167,草本體驗,true tisane,true tisane草本體驗,[],0,[],0
+1168,丹比,danby,danby丹比,[],0,[],0
+1169,小泉成器,koizumi,koizumi小泉成器,[],0,"[('izumi', 83)]",0
+1170,翰欣,trendsonic,trendsonic翰欣,[],0,[],0
+1171,米膚,reise,reise米膚,[],0,[],0
+1172,香吉士,sunkist,sunkist香吉士,[],0,[],0
+1173,精英,ecs,ecs精英,[],0,"[('ecos', 86)]",0
+1174,葛利德,glysolid,glysolid葛利德,[],0,[],0
+1175,星品牌,befit,befit星品牌,[],0,[],0
+1176, 居家,g+,g+ 居家,[],0,[],1
+1177,立髮健,revivogen,revivogen立髮健,[],0,[],0
+1178,百慕達,balmuda,balmuda百慕達,[],0,[],0
+1179,創世紀,montech,montech創世紀,[],0,[],0
+1180,自然鮮,natural fresh,natural fresh自然鮮,[],0,[],0
+1181,優沛蕾,yoplait,yoplait優沛蕾,[],0,[],0
+1182,艾克博士,dr. aik,dr. aik艾克博士,['艾克博士'],0,[],0
+1183,美樂思,mediplus,mediplus美樂思,[],0,[],0
+1184,御木本,mikimoto,mikimoto御木本,[],0,[],0
+1185,快睿,cryorig,cryorig快睿,[],0,[],0
+1186,萊卡,laica,laica萊卡,[],0,[],0
+1187,小小,petit,petit小小,[],0,"[('petio', 80), ('petia', 80)]",0
+1188,川越,wieden,wieden川越,[],0,[],0
+1189,康善秀,consensus,consensus康善秀,[],0,[],0
+1190,高島,takashima,takashima高島,[],0,[],0
+1191,浩客,hawk,hawk浩客,[],0,[],0
+1192,卡汶克萊,carvin kolai,carvin kolai卡汶克萊,['卡汶克萊'],0,[],0
+1193,默墨咖啡,more cafe,more cafe默墨咖啡,[],0,[],0
+1194,博多,marutai,marutai博多,[],0,[],0
+1195,哈維博士,dr.harvey,dr.harvey哈維博士,[],0,[],0
+1196,卡尼爾,garnier,garnier卡尼爾,[],0,[],0
+1197,威寶,kaiser,kaiser威寶,['威寶'],0,[],0
+1198,凱馳,karcher,karcher凱馳,[],0,[],0
+1199,詩帆島,sven's island,sven's island詩帆島,[],0,[],0
+1200,艾詩,enchanteur,enchanteur艾詩,['艾詩'],0,[],0
+1201,日本,iris ohyama,iris ohyama日本,[],0,"[('iris ohyama', 100)]",1
+1202,新普利,simply,simply新普利,['新普利'],0,[],0
+1203,拉拉熊,rilakkuma,rilakkuma拉拉熊,[],0,[],0
+1204,聖克萊爾,st.clare,st.clare聖克萊爾,[],1,[],0
+1205,貝喜力,basilic,basilic貝喜力,[],0,[],0
+1206,利百代,liberty,liberty利百代,['利百代'],0,[],0
+1207,小瑞士花園,s’siwiss,s’siwiss小瑞士花園,[],0,"[('k-swiss', 80)]",0
+1208,普騰,proton,proton普騰,[],0,[],0
+1209,古希歐,cuccio,cuccio古希歐,[],0,[],0
+1210,莉薇特麗,revital,revital莉薇特麗,['莉薇特麗'],0,"[('revital', 100)]",0
+1211,特力屋,hola,hola特力屋,['特力屋'],0,"[('hola', 100)]",0
+1212,樂格,log,log樂格,[],0,"[('lg', 80)]",0
+1213,陪心寵糧,nu4pet,nu4pet陪心寵糧,[],0,[],0
+1214,渴達,tundra,tundra渴達,[],0,[],0
+1215,御皇居,royal,royal御皇居,['御皇居'],0,[],1
+1216,百貓喜,best feline friend,best feline friend百貓喜,[],0,[],0
